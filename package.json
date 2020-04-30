@@ -7,7 +7,7 @@
     "animakit-expander": "^2.1.2",
     "babelify": "^7.3.0",
     "bootstrap": "^3.3.7",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "react": "^15.6.2",
     "react-cellblock": "^3.0.4",
     "react-dom": "^15.6.2",
